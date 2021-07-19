@@ -1,0 +1,21 @@
+{
+    "name": "BTTFProtocol",
+    "version": "0.9.0",
+    "description": "Simple serial protocol to interconnect several BTTF-themed props.",
+    "keywords": "BTTF, movie, prop, protocol, serial, BackToTheFuture",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/ShuzzDE/TBD.git"
+    },
+    "authors":
+    [
+      {
+        "name": "ShuzzDE",
+        "email": "github@shuzz.de"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
